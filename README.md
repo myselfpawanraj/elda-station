@@ -1,3 +1,7 @@
+# ELDA (Elderly Care System)
+
+This is a hybrid project of IOT and Development.
+
 To start a sample station. Edit the [src/bin/server.js](https://github.com/PlytonRexus/elda-station/blob/master/src/bin/server.js) to customise station usage.
 ```sh
 npm start
